@@ -40,6 +40,7 @@ public class JMSConsumer {
 			session.close();
 			connection.close();
 			System.out.println("aaaaaaaaaaa");
+			System.out.println("aaaaaaaaaa");
 		} catch (Exception e) {
 			// TODO: handle exception
 			e.printStackTrace();
